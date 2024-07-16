@@ -9,7 +9,7 @@ public class Information {
         dataCPUandchipsAllReady = "Дата данные загруженны";
         Questions = "Когда?";
         Very = "Понял, всё хорошо!";
-        End = "Я заершаю";
+        End = "Я заершаю"; // Осуждаю за взлом!!! Это тестовый файл!
 
         // loding
         LoadingJava Loding = new LoadingJava();
